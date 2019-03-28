@@ -51,6 +51,9 @@
 - https://pimpmydrawing.com/ 提供了高清的人物线稿矢量素材，起下载的格式包括了DWG和AI两种格式。
 - https://www.mrcutout.com/  mrcutout还提供了包括植物、家具、交通工具在内的各种配景素材
 
+#### 好且清晰的效果图值得看
+- https://www.loomn.de/
+
 ## 景观资讯
 http://www.landezine.com/ 
 https://www.gooood.cn/ 
