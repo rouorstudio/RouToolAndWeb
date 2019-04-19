@@ -1,5 +1,5 @@
 ## Enscape
-shift + F11
+shift + F11 随时输出截屏很方便
 
 ---
 ChangeLog
