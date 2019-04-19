@@ -1,4 +1,5 @@
-## 系统设置 alt + q
+## Sketchup 快捷键及使用技巧
+### 系统设置 alt + q
 
 #### 视图类
 标准视图/Stantard Views 标准视图结合透视显示可以帮我们快速精准地进行选择
@@ -57,5 +58,5 @@ X光透视选项 >>> <kbd>Alt</kbd> + X
 
 ---
 ChangeLog
-
+- 190419 Ym 从wiki移到repo，用到git press:https://gitpress.io/@rouor
 - 190328 YM create
