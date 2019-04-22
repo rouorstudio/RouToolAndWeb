@@ -12,6 +12,7 @@
 - [意向图](#意向图)
 - [素材类](#素材类)
 - [景观资讯](#景观资讯)
+
 ## 3D模型下载
 - [草图模型网](http://www.52edy.com/)
 - [知末模型](http://su.znzmo.com/)
@@ -30,6 +31,9 @@
 ## 素材类
 #### texture
 - http://texturer.com/
+- https://www.textures.com/   3D素材
+- http://www.huanyiba.cn/3dcaizhi/   中文贴图 环艺吧
+- https://www.texturepalace.com/   英文
 
 #### icon
 - [日本人物类icon](http://pictogram2.com/)
@@ -103,16 +107,10 @@ http://www.archcollege.com/
 
 http://www.zhishew.com/ 
 
-
----
-
-## 微信公众号常用工具
-
-- [最快速的插画](http://undraw.co/illustrations)
-- []()
 ---
 
 ## CHANGELOG
+- 190422 move wechat to rouordesign
 - 190328 YM add 人物类素材链接
 - 190328 YM move to rouorstudio-RouToolWeb
 - 20190325 YM add 视频类链接
