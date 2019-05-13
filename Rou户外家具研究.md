@@ -12,4 +12,4 @@ https://www.mobile01.com/topicdetail.php?f=360&t=3809974  角钢全套家具
 https://detail.1688.com/offer/575602378003.html?spm=a261y.7663282.hotsale.3.3b0810aaBnHlm0 冲孔板，冲孔网
 
 配件：
-脚踏钢板网 
+脚踏钢板网 铁板网
