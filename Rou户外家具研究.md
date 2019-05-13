@@ -16,4 +16,6 @@ https://detail.1688.com/offer/575602378003.html?spm=a261y.7663282.hotsale.3.3b08
 
 40*40*40 草垛价格为70元
 
+杂木卡板 https://item.taobao.com/item.htm?spm=a1z0d.7625083.1998302264.6.5c5f4e69sqnQQh&id=42122803978
+
 杂木板是：欧松板
